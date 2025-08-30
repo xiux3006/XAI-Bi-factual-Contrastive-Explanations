@@ -10,7 +10,7 @@ Il s'appuie sur la théorie de Tim Miller et vise à identifier les causes
 contrastives expliquant pourquoi une décision est prise dans un contexte
 donné et une autre dans un contexte différent.
 
-## 👨 Équipe
+##  Équipe
 
 -   **Faten Racha Said**
 -   **Ahmed Abdelaziz Mokeddem**

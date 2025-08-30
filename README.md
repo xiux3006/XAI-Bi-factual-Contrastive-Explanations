@@ -10,7 +10,7 @@ Il s'appuie sur la théorie de Tim Miller et vise à identifier les causes
 contrastives expliquant pourquoi une décision est prise dans un contexte
 donné et une autre dans un contexte différent.
 
-## 👨‍🎓 Équipe
+## 👨 Équipe
 
 -   **Faten Racha Said**
 -   **Ahmed Abdelaziz Mokeddem**
@@ -31,7 +31,7 @@ Encadré par **Isabelle Bloch** et **Marie-Jeanne Lesot**.
 -   Étude expérimentale : comparaison des temps d'exécution entre
     approche naïve et optimisée.
 
-## 📊 Résultats
+##  Résultats
 
 -   Implémentation validée sur des cas tests illustratifs (plateforme
     d'admission MonMaster simulée).
